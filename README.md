@@ -6,7 +6,6 @@
 
 ---
 ## 🗺️ خطوات تعلم تعلم الآلة من الصفر حتى الاحتراف
-
 ### 1. فهم الأساسيات
 - الفرق بين الذكاء الاصطناعي و تعلم الآلة و التعلم العميق
 - أنواع تعلم الآلة:
@@ -15,17 +14,14 @@
   - التعلم المعزز (Reinforcement Learning)
   - التعلم شبه الخاضع (Semi-Supervised Learning)
   - التعلم الذاتي (Self-Supervised Learning)
-
 🎓 كورسات مقترحة:
 - [مقدمة إلى تعلم الآلة – منصة معارف](https://www.m3aarf.com/courses/158)
 - [Intro to ML - Simplilearn (YouTube)](https://www.youtube.com/watch?v=ukzFI9rgwfU)
 - [AI vs ML vs DL – edureka! (YouTube)](https://www.youtube.com/watch?v=2ePf9rue1Ao)
-
 ### 2. تعلم الرياضيات المرتبطة بالمجال
 - الجبر الخطي (المصفوفات، المتجهات)
 - الاحتمالات والإحصاء
 - التفاضل والتكامل (ضروري للتعلم العميق)
-
 🎓 كورسات مقترحة:
 - [Mathematics for Machine Learning – Coursera](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [مقدمة في الإحصاء – منصة معارف](https://www.m3aarf.com/courses/136)
@@ -37,7 +33,6 @@
   - NumPy
   - Pandas
   - Matplotlib / Seaborn
-
 🎓 كورسات مقترحة:
 - [Learn Python – Codecademy](https://www.codecademy.com/learn/learn-python-3)
 - [تعلم بايثون من الصفر – منصة معارف](https://www.m3aarf.com/courses/78)
@@ -47,7 +42,6 @@
 - Scikit-learn
 - TensorFlow / Keras
 - XGBoost / LightGBM
-
 🎓 كورسات مقترحة:
 - [Machine Learning with Scikit-learn – Coursera](https://www.coursera.org/learn/machine-learning-sklearn)
 - [TensorFlow Crash Course – Google Developers (YouTube)](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
@@ -58,7 +52,6 @@
 - تصنيف صور
 - كشف احتيال
 - تحليل مشاعر
-
 🎓 مصادر للتطبيق:
 - [Kaggle – Competitions & Datasets](https://www.kaggle.com/)
 - [مشاريع ML بالعربي – YouTube](https://www.youtube.com/results?search_query=مشاريع+تعلم+الآلة)
@@ -68,7 +61,6 @@
 - Cross Validation
 - Hyperparameter Tuning
 - التعامل مع Overfitting و Underfitting
-
 🎓 كورسات مقترحة:
 - [Evaluation Metrics – Simplilearn (YouTube)](https://www.youtube.com/watch?v=85dtiMz9tSo)
 - [Understanding Overfitting – StatQuest (YouTube)](https://www.youtube.com/watch?v=6dbrR-WymjI)
@@ -87,7 +79,6 @@
 - رؤية حاسوبية (Computer Vision)
 - معالجة اللغة الطبيعية (NLP)
 - MLOps
-
 🎓 كورسات مقترحة:
 - [Introduction to NLP – Coursera](https://www.coursera.org/learn/nlp-sequence-models)
 - [Computer Vision Basics – freeCodeCamp](https://www.youtube.com/watch?v=1gGXk7F8s7I)
@@ -98,12 +89,10 @@
 - Kaggle Competitions
 - LinkedIn
 - كتابة CV قوي بالمشاريع
-
 🎓 مصادر مفيدة:
 - [Build Your ML Portfolio – YouTube](https://www.youtube.com/watch?v=G2fI-kB7nZs)
 - [Git & GitHub Basics – Coursera](https://www.coursera.org/learn/introduction-git-github)
 - [كيفية بناء سيرة ذاتية قوية في مجال البيانات – معارف](https://www.m3aarf.com/courses/110)
-
 ---
 
 ## 📌 أنواع تعلم الآلة وخوارزميات كل نوع
